@@ -1,0 +1,14 @@
+{
+  "name": "tp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejercicios.js",
+  "scripts": {
+    "start": "node Ejercicios.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
